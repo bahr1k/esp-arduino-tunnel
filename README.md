@@ -29,7 +29,7 @@
 
 ### 2. Install the Library
 
-Download the library and add it to your Arduino IDE libraries folder or install via Library Manager.
+Download the library and add it to your Arduino IDE libraries folder or install "ESPTunnel" via Library Manager.
 
 ### 3. Include the Library
 
